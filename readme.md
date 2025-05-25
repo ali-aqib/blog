@@ -139,3 +139,25 @@ project/
 - Name: Admin
 - Email: admin@email.com
 - Password: admin
+
+
+## 🖼️ Project Screenshots
+
+### 🏠 Home Page
+<img src="screenshots/home_screenshot1.png" alt="Home Screenshot 1" width="800"/>
+<br/>
+<img src="screenshots/home_screenshot.png" alt="Home Screenshot 2" width="800"/>
+
+### 👤 Login Page
+<img src="screenshots/login_screenshot.png" alt="Login Screenshot" width="800"/>
+
+### 📝 Register Page
+<img src="screenshots/register_screenshot.png" alt="Register Screenshot" width="800"/>
+
+### ℹ️ About Page
+<img src="screenshots/about_screenshot.png" alt="About Screenshot" width="800"/>
+
+### 📩 Contact Page
+<img src="screenshots/contact_screenshot1.png" alt="Contact Screenshot 1" width="800"/>
+<br/>
+<img src="screenshots/contact_screenshot.png" alt="Contact Screenshot 2" width="800"/>
