@@ -100,7 +100,7 @@ project/
    - Navigate to File → Settings → Python Interpreter (or PyCharm → Preferences on macOS)
    - Click the gear icon ⚙ → Add
    - Choose a New Environment using venv
-   - Set the base interpreter (e.g., Python 3.10)
+   - Set the base interpreter (e.g., Python 3.13)
    - Click OK and Apply
 
 3. **Install the required packages**
@@ -127,7 +127,11 @@ project/
    - Click OK, then click Run
 
 # Don't forget to configure the credentials in the .env file
-
+- Create a .env file in the home directory
+- MY_EMAIL=" Your Gmail Id "
+- PASSWORD=" Your Gmail App Password "
+- SECRET_KEY="Create a Random secret Key for Flask"
+- DB_URI=" Optional "
 
 
 # 👮 Admin Account
@@ -135,10 +139,6 @@ project/
    - The first user who registers becomes the admin.
    - Only the admin can create, edit, or delete blog posts.
 
-**Admin credentials:**
-- Name: Admin
-- Email: admin@email.com
-- Password: admin
 
 
 ## 🖼️ Project Screenshots
